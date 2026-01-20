@@ -19,5 +19,5 @@ Contents
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
-   usage
-   api
+   usage<usage>
+   api<api>
