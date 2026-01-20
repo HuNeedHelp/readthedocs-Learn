@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Table of Contents
+   .. :maxdepth: 1
+   .. :caption: Table of Contents
    usage<usage>
    api<api>
